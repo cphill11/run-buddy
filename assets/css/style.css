@@ -101,7 +101,7 @@ section {
 }
 
 .form-input {
-    border: 1px solid #024e76
+    border: 1px solid #024e76;
     display: block;
     padding: 7px 15px;
     font-size: 16 px;
@@ -129,7 +129,7 @@ section {
 
 /*remove this entire CSS rule */
 /* .intro h2 {
-/*     /*add this alongside your other declarations */
+/    add this alongside your other declarations /
     display: inline-block;
     font-size: 55px;
     color: #024e76;
