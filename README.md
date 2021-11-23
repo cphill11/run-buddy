@@ -14,4 +14,9 @@ https://lernatino.github.io/run-buddy/
 Made with ❤️ by Criste Phillips
 
 ### © 2019 Run Buddy, Inc.
+<<<<<<< HEAD
 TEST.
+=======
+
+All rights reserved.
+>>>>>>> a192e80ec56686ef5ad4b6404322d8813d1450d5
