@@ -14,3 +14,5 @@ https://lernatino.github.io/run-buddy/
 Made with ❤️ by Criste Phillips
 
 ### © 2019 Run Buddy, Inc.
+
+All rights reserved.
