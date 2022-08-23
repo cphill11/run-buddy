@@ -3,20 +3,15 @@
 ## Purpose
 A website that offers fitness training services.
 
+## Description
+Class project.  First interactive website students worked to compose.
+
 ## Built With
 * HTML
 * CSS
 
 ## Website
-https://lernatino.github.io/run-buddy/
+https://cphill11.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Criste Phillips
-
-### © 2019 Run Buddy, Inc.
-<<<<<<< HEAD
-TEST.
-=======
-
-All rights reserved.
->>>>>>> a192e80ec56686ef5ad4b6404322d8813d1450d5

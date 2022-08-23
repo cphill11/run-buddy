@@ -99,7 +99,6 @@ section {
     padding: 60px;
 }
 
-
 /* Hero Style Start */
 .hero {
     background-image: url("../images/hero-bg.jpeg");
@@ -245,8 +244,6 @@ section {
 }
 /*Hero Style End */
 
-
-
 .intro p {
     margin: 0 auto;
     line-height: 1.7;
@@ -318,7 +315,6 @@ section {
     border-bottom: none;
 }
 
-
 .step-img {
     flex: 1 12%;
     margin-right: 20px;
@@ -328,7 +324,6 @@ section {
     max-width: 100%;
 }
 
-
 .text-left {
     text-align: left;
 }
@@ -336,7 +331,6 @@ section {
 .text-right {
     text-align: right;
 }
-
 
 .trainer {
     margin: 20 px;
@@ -395,7 +389,6 @@ section {
     margin: 15px;
 }
 
-
 .contact-info iframe {
     height: 400px;
 }
@@ -442,7 +435,6 @@ section {
     background-color: rgba(255,255,255, 0.75);
     outline: none;
 }
-
 
 .contact-form button {
     width: 100%;
@@ -506,8 +498,6 @@ section {
             flex: 1 100%;
         }
 }
-
-
 
 /* MEDIA QUERY FOR TABLETS AND SMALLER */
 @media screen and (max-width: 768px) {
